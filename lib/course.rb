@@ -1,5 +1,5 @@
 class Course
 
-  attr_accessory :title, :schedule, :description
+  attr_accessor :title, :schedule, :description
 
 end
